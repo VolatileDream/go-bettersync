@@ -1,3 +1,3 @@
-module github.com/VolatileDream/go-better-sync
+module github.com/VolatileDream/go-bettersync
 
 go 1.19

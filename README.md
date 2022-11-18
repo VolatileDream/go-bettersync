@@ -1,2 +1,3 @@
 # go-bettersync
-A better kind of Mutex
+
+A tiny amount of generic code that improves the builtin `sync.Mutex` type.
